@@ -16,6 +16,8 @@ public class JavaApplication1 {
     public static void main(String[] args) {
         // TODO code application logic here
         int length = 100;
+        int main = 10;
+        System.out.println("main = " + main);
         System.out.println("length = " + length);
         System.out.println("hello worlds");
     }
